@@ -2,8 +2,6 @@ This project presents a vision-based algorithm designed to automatically detect 
 
 The algorithm can be deployed in smart factories, industrial automation pipelines, and quality control systems, providing a reliable non-contact method for angle measurement.
 
-git clone https://github.com/tikaouihicham/Angle-Detection.git
-cd Angle-Detection
 
 ![Texte alternatif](images/Photo1.png)
 ![Texte alternatif](images/Photo2.png)
